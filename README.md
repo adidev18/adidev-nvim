@@ -1,4 +1,4 @@
-# adidev-nvim
+# adidev-nvim - Just a Basic Config
 
 
 Prequisites
@@ -9,3 +9,4 @@ Prequisites
 4. Go and Gopls. 
 5. Ripgrep
 6. Fd find
+
